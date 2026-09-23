@@ -119,7 +119,7 @@ Dockerfile        → Container definition
 ## How to Run the Project Locally
 
 ### Clone the repository
-git clone https://github.com/your-username/california-housing-mlops-pipeline.git
+git clone https://github.com/your-username/california_housing_mlops_pipeline.git
 
 ### Install dependencies
 pip install -r requirements.txt
