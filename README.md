@@ -1,4 +1,4 @@
-# California Housing — End-to-End MLOps Pipeline
+# California Housing - End-to-End MLOps Pipeline
 
 ## Project Objective
 
